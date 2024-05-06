@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ---
 
-Below is a guide for installing and configuring AUP to a Minecraft Java server. For additional plugin documentation, see [commands.](./commands/commands-home)
+Below is a guide for installing and configuring AUP to a Minecraft Java server. For additional plugin documentation, see [commands.](./commands)
 
 :::note
 AUP is developed for 1.20.x Minecraft Java servers.
