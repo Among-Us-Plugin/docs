@@ -9,8 +9,8 @@ sidebar_position: 1
 
 Below is a guide for installing and configuring AUP to a Minecraft Java server. For additional plugin documentation, see [commands.](./commands)
 
-:::note
-AUP is developed for 1.20.x Minecraft Java servers.
+:::warning
+AUP is developed for 1.20.x Minecraft Java servers. Using AUP with other versions of Minecraft may result in stability issues.
 :::
 
 Setting up AUP on your server can be accomplished in three steps:
@@ -21,8 +21,16 @@ Setting up AUP on your server can be accomplished in three steps:
 
 ## Obtain JAR file
 
+You can find the latest version of the AUP JAR file [here.](https://github.com/Among-Us-Plugin/source/releases) Alternatively, you can compile the JAR file from source.
 
 ## Install JAR file
 
+Place the AUP JAR file in the `/plugins` directory of your Minecraft Server.
 
 ## Start and configure
+
+Start the server and configure the game using the [in-game commands.](./commands)
+
+:::warning
+Any player in the server can run configure AUP; consider a permissions plugin for larger servers.
+:::
