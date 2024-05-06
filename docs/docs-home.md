@@ -32,5 +32,5 @@ Place the AUP JAR file in the `/plugins` directory of your Minecraft Server.
 Start the server and configure the game using the [in-game commands.](./commands)
 
 :::warning
-Any player in the server can run configure AUP; consider a permissions plugin for larger servers.
+Any player in the server can run and configure AUP; consider a permissions plugin for larger servers.
 :::

@@ -6,10 +6,8 @@ sidebar_position: 2
 
 ---
 
-:::note
-
-There is currently no restriction on which players can execute AUP commands.
-
+:::warning
+Any player in the server can run and configure AUP; consider a permissions plugin for larger servers.
 :::
 
 
