@@ -3,4 +3,6 @@ slug: /
 sidebar_position: 1
 ---
 
-# Docs Home
+# AUP Docs Home
+
+---
