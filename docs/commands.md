@@ -28,12 +28,20 @@ _End the Among Us game_
 
 ### /impostors
 
+Usage: `/impostors`
+
+_Get number of impostors per game_
+
 Usage: `/impostors <amount>`
 
 _Set number of impostors per game_
 
 ### /cooldown
 
+Usage: `/cooldown <action>`
+
+_Get an action's configured cooldown duration_
+
 Usage: `/cooldown <action> <seconds>`
 
-_Configure cooldown durations_
+_Configure an action's cooldown duration_
