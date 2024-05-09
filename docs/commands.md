@@ -26,6 +26,10 @@ _End the Among Us game_
 
 ## Configuration
 
+:::note
+It is not possible to configure AUP while the game is running.
+:::
+
 ### /impostors
 
 Usage: `/impostors`
